@@ -1,0 +1,407 @@
+S1 number 1 total response time is 32
+
+S1 number 2 total response time is 37
+
+S1 number 3 total response time is 48
+
+S2 number 1 total response time is 53
+
+S1 number 4 total response time is 59
+
+S2 number 2 total response time is 64
+
+S1 number 5 total response time is 70
+
+S2 number 3 total response time is 75
+
+S1 number 6 total response time is 81
+
+S2 number 4 total response time is 86
+
+S1 number 7 total response time is 92
+
+S2 number 5 total response time is 97
+
+S1 number 8 total response time is 103
+
+S2 number 6 total response time is 108
+
+S1 number 9 total response time is 114
+
+S2 number 7 total response time is 119
+
+S1 number 10 total response time is 125
+
+S2 number 8 total response time is 130
+
+S1 number 11 total response time is 136
+
+S2 number 9 total response time is 141
+
+S1 number 12 total response time is 147
+
+S2 number 10 total response time is 152
+
+S1 number 13 total response time is 158
+
+S2 number 11 total response time is 163
+
+S1 number 14 total response time is 169
+
+S2 number 12 total response time is 174
+
+S1 number 15 total response time is 180
+
+S2 number 13 total response time is 185
+
+S1 number 16 total response time is 191
+
+S2 number 14 total response time is 195
+
+S1 number 17 total response time is 198
+
+S2 number 15 total response time is 200
+
+S1 number 18 total response time is 203
+
+S2 number 16 total response time is 205
+
+S1 number 19 total response time is 208
+
+S2 number 17 total response time is 210
+
+S1 number 20 total response time is 213
+
+S2 number 18 total response time is 215
+
+S1 number 21 total response time is 218
+
+S2 number 19 total response time is 220
+
+S1 number 22 total response time is 223
+
+S2 number 20 total response time is 225
+
+S1 number 23 total response time is 228
+
+S2 number 21 total response time is 230
+
+S1 number 24 total response time is 233
+
+S2 number 22 total response time is 235
+
+S1 number 25 total response time is 238
+
+S2 number 23 total response time is 240
+
+S1 number 26 total response time is 243
+
+S2 number 24 total response time is 245
+
+S1 number 27 total response time is 248
+
+S2 number 25 total response time is 250
+
+S1 number 28 total response time is 253
+
+S2 number 26 total response time is 255
+
+S1 number 29 total response time is 258
+
+S2 number 27 total response time is 260
+
+S1 number 30 total response time is 263
+
+S2 number 28 total response time is 265
+
+S1 number 31 total response time is 268
+
+S2 number 29 total response time is 270
+
+S1 number 32 total response time is 273
+
+S2 number 30 total response time is 275
+
+S1 number 33 total response time is 278
+
+S2 number 31 total response time is 280
+
+S1 number 34 total response time is 283
+
+S2 number 32 total response time is 285
+
+S1 number 35 total response time is 288
+
+S2 number 33 total response time is 290
+
+S1 number 36 total response time is 293
+
+S2 number 34 total response time is 295
+
+S1 number 37 total response time is 298
+
+S2 number 35 total response time is 300
+
+S1 number 38 total response time is 303
+
+S2 number 36 total response time is 305
+
+S1 number 39 total response time is 308
+
+S2 number 37 total response time is 310
+
+S1 number 40 total response time is 313
+
+S2 number 38 total response time is 315
+
+S1 number 41 total response time is 318
+
+S2 number 39 total response time is 320
+
+S1 number 42 total response time is 323
+
+S2 number 40 total response time is 325
+
+S1 number 43 total response time is 328
+
+S2 number 41 total response time is 330
+
+S1 number 44 total response time is 333
+
+S2 number 42 total response time is 335
+
+S1 number 45 total response time is 338
+
+S2 number 43 total response time is 340
+
+S1 number 46 total response time is 343
+
+S2 number 44 total response time is 345
+
+S1 number 47 total response time is 348
+
+S2 number 45 total response time is 350
+
+S1 number 48 total response time is 353
+
+S2 number 46 total response time is 355
+
+S1 number 49 total response time is 358
+
+S2 number 47 total response time is 360
+
+S1 number 50 total response time is 363
+
+S2 number 48 total response time is 365
+
+S1 number 51 total response time is 368
+
+S2 number 49 total response time is 370
+
+S1 number 52 total response time is 373
+
+S2 number 50 total response time is 375
+
+S1 number 53 total response time is 378
+
+S2 number 51 total response time is 380
+
+S1 number 54 total response time is 383
+
+S2 number 52 total response time is 385
+
+S1 number 55 total response time is 388
+
+S2 number 53 total response time is 390
+
+S1 number 56 total response time is 393
+
+S2 number 54 total response time is 395
+
+S1 number 57 total response time is 398
+
+S2 number 55 total response time is 400
+
+S1 number 58 total response time is 403
+
+S2 number 56 total response time is 405
+
+S1 number 59 total response time is 408
+
+S2 number 57 total response time is 410
+
+S1 number 60 total response time is 413
+
+S2 number 58 total response time is 415
+
+S1 number 61 total response time is 418
+
+S2 number 59 total response time is 420
+
+S1 number 62 total response time is 423
+
+S2 number 60 total response time is 425
+
+S1 number 63 total response time is 428
+
+S2 number 61 total response time is 430
+
+S1 number 64 total response time is 433
+
+S2 number 62 total response time is 435
+
+S1 number 65 total response time is 438
+
+S2 number 63 total response time is 440
+
+S1 number 66 total response time is 443
+
+S2 number 64 total response time is 445
+
+S1 number 67 total response time is 448
+
+S2 number 65 total response time is 450
+
+S1 number 68 total response time is 453
+
+S2 number 66 total response time is 455
+
+S1 number 69 total response time is 458
+
+S2 number 67 total response time is 460
+
+S1 number 70 total response time is 463
+
+S2 number 68 total response time is 465
+
+S1 number 71 total response time is 468
+
+S2 number 69 total response time is 470
+
+S1 number 72 total response time is 473
+
+S2 number 70 total response time is 475
+
+S1 number 73 total response time is 478
+
+S2 number 71 total response time is 480
+
+S1 number 74 total response time is 483
+
+S2 number 72 total response time is 485
+
+S1 number 75 total response time is 488
+
+S2 number 73 total response time is 490
+
+S1 number 76 total response time is 493
+
+S2 number 74 total response time is 495
+
+S1 number 77 total response time is 498
+
+S2 number 75 total response time is 500
+
+S1 number 78 total response time is 503
+
+S2 number 76 total response time is 505
+
+S1 number 79 total response time is 508
+
+S2 number 77 total response time is 510
+
+S1 number 80 total response time is 513
+
+S2 number 78 total response time is 515
+
+S1 number 81 total response time is 518
+
+S2 number 79 total response time is 520
+
+S1 number 82 total response time is 523
+
+S2 number 80 total response time is 525
+
+S1 number 83 total response time is 528
+
+S2 number 81 total response time is 530
+
+S1 number 84 total response time is 533
+
+S2 number 82 total response time is 535
+
+S1 number 85 total response time is 538
+
+S2 number 83 total response time is 540
+
+S1 number 86 total response time is 543
+
+S2 number 84 total response time is 545
+
+S1 number 87 total response time is 548
+
+S2 number 85 total response time is 550
+
+S1 number 88 total response time is 553
+
+S2 number 86 total response time is 555
+
+S1 number 89 total response time is 558
+
+S2 number 87 total response time is 560
+
+S1 number 90 total response time is 563
+
+S2 number 88 total response time is 565
+
+S1 number 91 total response time is 568
+
+S2 number 89 total response time is 570
+
+S1 number 92 total response time is 573
+
+S2 number 90 total response time is 575
+
+S1 number 93 total response time is 578
+
+S2 number 91 total response time is 580
+
+S1 number 94 total response time is 583
+
+S2 number 92 total response time is 585
+
+S1 number 95 total response time is 588
+
+S2 number 93 total response time is 590
+
+S1 number 96 total response time is 593
+
+S2 number 94 total response time is 595
+
+S1 number 97 total response time is 598
+
+S2 number 95 total response time is 600
+
+S1 number 98 total response time is 603
+
+S2 number 96 total response time is 605
+
+S1 number 99 total response time is 608
+
+S2 number 97 total response time is 610
+
+S1 number 100 total response time is 613
+
+S2 number 98 total response time is 615
+
+S2 number 99 total response time is 617
+
+S2 number 100 total response time is 619
+
+
+
+
+S1 average response time is 354
+S2 average response time is 368
+M1's biggest queue size was 169
+M2's biggest queue size was 2
